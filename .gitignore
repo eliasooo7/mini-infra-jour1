@@ -1,0 +1,6 @@
+# secrets et identifiants
+*.env
+secrets.yml
+
+# fichiers generes
+state.json
